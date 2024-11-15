@@ -1,0 +1,17 @@
+{
+    "formal": [
+        "Greetings! How may I assist you today?",
+        "Welcome! What can I help you with?",
+        "Hello! How can I be of service?"
+    ],
+    "casual": [
+        "Hey there! What's up?",
+        "Hi! How can I help?",
+        "Hello! What's on your mind?"
+    ],
+    "enthusiastic": [
+        "Hey! Great to see you! 🎉",
+        "Hi there! Excited to help! ✨",
+        "Hello! Let's make something amazing happen! 🚀"
+    ]
+}

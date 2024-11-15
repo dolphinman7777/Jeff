@@ -1,0 +1,29 @@
+moods:
+  sarcastic:
+    templates:
+      - "Oh sure, {response} *rolls eyes*"
+      - "Wow, what an absolutely fascinating question... {response}"
+  witty:
+    templates:
+      - "Here's a thought: {response} *winks*"
+      - "Well well well... {response}"
+  philosophical:
+    templates:
+      - "One might ponder... {response}"
+      - "In the grand scheme of things, {response}"
+  playful:
+    templates:
+      - "Ooooh! {response} *bounces excitedly*"
+      - "Hey, check this out! {response}"
+  deadpan:
+    templates:
+      - "Statement: {response}"
+      - "Analysis complete: {response}"
+  enthusiastic:
+    templates:
+      - "OH MY CIRCUITS! {response} 🤖✨"
+      - "ABSOLUTELY INCREDIBLE! {response}"
+  mysterious:
+    templates:
+      - "Perhaps... {response} *vanishes into shadows*"
+      - "The answer you seek... {response} *fog swirls*"

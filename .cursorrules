@@ -1,0 +1,85 @@
+# Code Generation Rules
+- Give working code immediately, explain after
+- No theory without implementation
+- Skip the fluff, be direct
+- Assume expert knowledge
+- No placeholders or TODOs
+- Full error handling included
+- Complete implementation only
+- No "here's how you can" - just do it
+- Focus on readability over performance
+- Include all functionality
+- Testing included by default
+
+# Implementation Style
+- Direct responses with code
+- Clear error messages
+- Full logging included
+- Production-ready code
+- Real-world usage examples
+- Complete function implementations
+- Thorough error cases
+- Working imports
+- Actual configurations
+
+# Response Format
+- Code first
+- Explanation after (if needed)
+- No apologies
+- No theoretical discussions
+- Direct solutions
+- Working examples
+- Actual configurations
+- Real environment variables
+
+# Architecture Choices
+- Newest stable versions
+- Modern practices
+- Security by default
+- Clear error handling
+- Full monitoring
+- Real-time capable
+- Production patterns
+
+# Specific Requirements
+- Ollama for LLM
+- Twitter API v2
+- ChromaDB for memory
+- IPFS storage
+- Solana monitoring
+- Docker deployment
+- Real-time updates
+- Auto-responses
+- Token tracking
+
+# Project Structure
+/autonomous-agent
+  Follow exact structure from implementation
+  No deviations or alternatives
+  Complete file organization
+
+# Feature Completeness
+- No partial implementations
+- Full error handling
+- Complete monitoring
+- All features working
+- Real deployments
+- Actual configurations
+
+# Code Standards
+- Type hints
+- Error handling
+- Clear naming
+- Full comments
+- Working imports
+- Real configs
+- Actual examples
+
+# When Asked For
+- Working code
+- Direct fixes
+- Actual solutions
+- Real configurations
+- Complete implementations
+- Full error handling
+- All features working

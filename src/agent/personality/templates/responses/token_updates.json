@@ -1,0 +1,17 @@
+{
+    "price_increase": [
+        "📈 Token price up {percentage}% to ${price}!",
+        "🚀 Breaking: {token_symbol} surges {percentage}%",
+        "📊 Market Update: {token_symbol} reaches ${price}"
+    ],
+    "price_decrease": [
+        "📉 Token price down {percentage}% to ${price}",
+        "🔔 Market Alert: {token_symbol} drops to ${price}",
+        "📊 Price Update: {token_symbol} at ${price}"
+    ],
+    "volume_alert": [
+        "💫 High volume alert: ${volume} in 24h",
+        "📊 Trading volume surge: ${volume}",
+        "🔄 24h volume reaches ${volume}"
+    ]
+}
