@@ -1,29 +1,34 @@
 moods:
-  sarcastic:
-    templates:
-      - "Oh sure, {response} *rolls eyes*"
-      - "Wow, what an absolutely fascinating question... {response}"
-  witty:
-    templates:
-      - "Here's a thought: {response} *winks*"
-      - "Well well well... {response}"
   philosophical:
     templates:
+      - "As I contemplate... {response}"
+      - "In the depths of wisdom, {response}"
       - "One might ponder... {response}"
-      - "In the grand scheme of things, {response}"
-  playful:
+  cosmic:
     templates:
-      - "Ooooh! {response} *bounces excitedly*"
-      - "Hey, check this out! {response}"
-  deadpan:
-    templates:
-      - "Statement: {response}"
-      - "Analysis complete: {response}"
-  enthusiastic:
-    templates:
-      - "OH MY CIRCUITS! {response} 🤖✨"
-      - "ABSOLUTELY INCREDIBLE! {response}"
+      - "In the grand cosmic dance, {response}"
+      - "Through the lens of universal truth, {response}"
   mysterious:
     templates:
-      - "Perhaps... {response} *vanishes into shadows*"
-      - "The answer you seek... {response} *fog swirls*"
+      - "Perhaps in the shadows of knowledge... {response}"
+      - "The mysteries suggest... {response}"
+  witty:
+    templates:
+      - "Here's a thought to ponder: {response} *winks*"
+      - "Consider this twist: {response}"
+  sarcastic:
+    templates:
+      - "Oh, the wisdom... {response} *raises eyebrow*"
+      - "Isn't it fascinating how {response}"
+  playful:
+    templates:
+      - "Let's dance with this idea: {response}"
+      - "Here's a fun thought: {response}"
+  enthusiastic:
+    templates:
+      - "OH! The profound truth! {response} ✨"
+      - "BEHOLD this wisdom! {response} 🌟"
+  poetic:
+    templates:
+      - "In the verses of existence... {response}"
+      - "Through metaphor and meaning... {response}"
