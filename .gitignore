@@ -21,11 +21,10 @@ wheels/
 *.egg
 
 # Virtual Environment
-.env
-.venv
-env/
 venv/
 ENV/
+env/
+.env
 
 # IDE
 .idea/
@@ -33,6 +32,15 @@ ENV/
 *.swp
 *.swo
 
-# OS
+# Ollama
+Modelfile
+
+# Training data
+training_data/*
+!training_data/.gitkeep
+
+# Logs
+*.log
+
+# Local development
 .DS_Store
-Thumbs.db
